@@ -16,6 +16,7 @@
 5. Do you mind saving your work so I can reboot quick and see if that resolves the issue?
 
 ### Part B: Windows Memory Troubleshooting Resources
+**Resources Used:**  
 **1.** [Memory Diagnostics Tool](http://hs.windows.microsoft.com/hhweb/content/m-en-us/p-6.2/id-4edd5f80-def2-4d32-965c-116d49fb9872/)  
 **2.** [How to Check for Memory Problems](https://www.pcmag.com/how-to/how-to-check-for-memory-problems-in-windows)  
 **3.** [High Memory Usage Fix](https://www.easeus.com/partition-master/windows-10-high-ram-cpu-memory-usage-issue.html?srsltid=AfmBOoq245KbaMv7j10QPYNzypXpI4AJKuexJkPdem0lB14_Vgw0SA_2)  
@@ -28,6 +29,7 @@
 **Easeus** Website (3.) explains 10 Fixes to Resolve High Memory Usage in Windows 11. It shows 10 different Solutions, what they do and how to do them. One example is "**Closing Unnecessary Running Programs/Applications**" <br>
 
 ### Part C: General Windows Application Troubleshooting
+**Resources Used:**  
 **1.** [Troubleshooting the most common issues](https://www.techtarget.com/searchenterprisedesktop/tip/Troubleshooting-the-most-common-issues-with-Windows-11)  
 **2.** [Fixing Windos 11 Apps not Working/Opening](https://www.minitool.com/data-recovery/windows-11-apps-not-opening-working-fixed.html)  
 **3.** [Troubleshooting common Issues with Windows 11](https://www.techsolutions.support.com/how-to/how-to-guide-for-troubleshooting-common-issues-with-windows-11-16067)  
@@ -38,6 +40,10 @@
 **Minitool's** Website (2.) shows 10 different steps what to do if Apps are not Working or Opening in Windows 11. Some of them are simple, like repairing/resettting the Apps, the other more complicated like Modifying the Registry Key. <br>
 <br>
 **Techsolution's** Website (3.) has a Guide to Fix Issues based on what the Problem is. For example for Application crashes it has four solutions like Checking for Compatibility. It also has useful fixes for other Issues like Blue Screen of Death Errors, etc. <br>
+
+
+
+
 
 
 
