@@ -41,6 +41,23 @@
 <br>
 **Techsolution's** Website (3.) has a Guide to Fix Issues based on what the Problem is. For example for Application crashes it has four solutions like Checking for Compatibility. It also has useful fixes for other Issues like Blue Screen of Death Errors, etc. <br>
 
+## Question 2: Training on Windows File Explorer
+**Resources Used:**  
+**1.** [Simple Explanation of File Explorer](https://support.microsoft.com/en-us/windows/file-explorer-in-windows-ef370130-1cca-9dc5-e0df-2f7416fe1cb1)  
+**2.** [Working with Files](https://edu.gcfglobal.org/en/windowsbasics/working-with-files/1/)  
+**3.** [Managing Files in File Explorer](https://www.pcmag.com/how-to/10-tips-how-to-manage-your-files-with-windows-10s-file-explorer)  
+
+**Comments:** <br>
+**Microsoft's** Website (1.) has a simple tutorial on how to use the File Explorer, what the Quick Access View is, the Context Menu, and Common File Explorer Options.<br>
+<br>
+**GCFGlobal's** Website (2.) explains how to work with files for a complete beginner. It shows what a File, Folder etc. is and how to open, move, delete, select, etc. them. How to find files on the Computer is also describes there. A Video explaining everything is available there too. <br>
+<br>
+**PCMag's** Website (3.) has 12 Tricks for managing files in File Explorer such as Sharing Folders and Files, Zipping and Unzipping files, Displaying your libraries, etc. There are features in there that a lot of people  may not know about or haven’t used in a while.<br> 
+
+
+
+
+
 
 
 
